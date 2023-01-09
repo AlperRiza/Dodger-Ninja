@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ad9d752eef90de74d962ff36a6bdaffa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Engel_sag: {fileID: 2894084353764190312, guid: 8209616d050679f498494209cd623e26, type: 3}
+  - Engel_sol: {fileID: 4231236427101605797, guid: d08e7fcb9709e2a4d844ef6c1b277a41, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
